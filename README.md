@@ -14,7 +14,6 @@
  * Pls download uwu
 
 # Features
-A deep dive into the features
 
 * Discord Info
   * Nitro Codes

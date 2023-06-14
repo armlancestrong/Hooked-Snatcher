@@ -53,4 +53,4 @@ V1
 
 ## Acknowledgments
 
-* THIS IS A MOD OF [LUNA GRABBER]https://github.com/Smug246/Luna-Grabber!
+* THIS IS A MOD OF [LUNA GRABBER](https://github.com/Smug246/Luna-Grabber)!

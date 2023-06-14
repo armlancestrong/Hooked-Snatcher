@@ -2,7 +2,11 @@
 
 # Hooked Snatcher
 
-Hooked snatcher is a modded version of luna grabber that is more efficient and just looks cooler imo. PLEASE GET NOW!!!!!
+![giphy (1)](https://github.com/Poopsock98/Hookedsnatcherconfig/assets/120754355/816d4f59-a02b-481b-bd40-e271cfbfb574)
+
+
+
+## Hooked Snatcher is a very simple virus that can snatch alot of amazing information.
 
 ## Features
 ***

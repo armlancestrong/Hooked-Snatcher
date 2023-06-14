@@ -44,7 +44,7 @@ A deep dive into the features
   * PC Specs
   * Screenshot
   
-*Special Sauce
+* Special Sauce
 
   * Checks if being run in a virustotal sandbox/virtual machine
   * Checks for blacklisted users, pc names, HWIDs, IPs, MACs and Processes

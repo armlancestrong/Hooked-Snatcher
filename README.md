@@ -85,7 +85,11 @@ Fortnite Balls
 
 ## Contributing
 
-Me, Im the only one!
+* Me
+
+* Myself
+
+* And i
 
 ## Versioning
 

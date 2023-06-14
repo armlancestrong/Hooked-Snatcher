@@ -3,7 +3,8 @@
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎![giphy (1)](https://github.com/Poopsock98/Hookedsnatcherconfig/assets/120754355/816d4f59-a02b-481b-bd40-e271cfbfb574)
 ###
 
-![python](https://img.shields.io/badge/Python-100%25-brightgreen) 
+![python](https://img.shields.io/badge/Python-100%25-brightgreen)
+![downloads](https://img.shields.io/badge/Downloads-153-brightgreen)
 
 
 ## Hooked Snatcher is a very simple virus that can snatch alot of amazing information.

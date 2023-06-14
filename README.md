@@ -7,11 +7,11 @@
 
 
 ## Hooked Snatcher is a very simple virus that can snatch alot of amazing information.
-Just a very nice and reliable tool for token grabbing, and so forth.
-It has alot of nice features that can be toggled on or off using a very simple config string.
-Hooked snatcher is also quite speedy grabbing all of the information requested in around 20-60 seconds!
-Also who doesn't love a good ol' virus to fish up some amazing info to sell.
-Pls download uwu
+ Just a very nice and reliable tool for token grabbing, and so forth.
+ It has alot of nice features that can be toggled on or off using a very simple config string.
+ Hooked snatcher is also quite speedy grabbing all of the information requested in around 20-60 seconds!
+ Also who doesn't love a good ol' virus to fish up some amazing info to sell.
+ Pls download uwu
 
 ## Features
 ***

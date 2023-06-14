@@ -13,8 +13,7 @@
  * Also who doesn't love a good ol' virus to fish up some amazing info to sell.
  * Pls download uwu
 
-## Features
-***
+# Features
 A deep dive into the features
 
 * Discord Info

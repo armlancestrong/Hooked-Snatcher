@@ -58,7 +58,7 @@ A deep dive into the features
   * Self Destruct
  
 # Here is an image of what this will look like when you get a hit.
-     ![image](https://github.com/Poopsock98/Hookedsnatcherconfig/assets/120754355/a9fe08f7-5cf1-46ea-991d-bc8619aee1f0)
+   ![image](https://github.com/Poopsock98/Hookedsnatcherconfig/assets/120754355/a9fe08f7-5cf1-46ea-991d-bc8619aee1f0)
 
 
 ## Installing

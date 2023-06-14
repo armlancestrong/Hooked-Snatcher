@@ -5,6 +5,9 @@
 Hooked snatcher is a modded version of luna grabber that is more efficient and just looks cooler imo. PLEASE GET NOW!!!!!
 
 ## Features
+***
+A deep dive into the features
+
 *Discord Info
   *Nitro Codes
   *Gift Codes

@@ -1,6 +1,6 @@
 #                                                                                Hooked Snatcher
 
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎![giphy (1)](https://github.com/Poopsock98/Hookedsnatcherconfig/assets/120754355/816d4f59-a02b-481b-bd40-e271cfbfb574)
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎![giphy (1)](https://github.com/Poopsock98/Hookedsnatcherconfig/assets/120754355/816d4f59-a02b-481b-bd40-e271cfbfb574)
 ###
 
 ![python](https://img.shields.io/badge/Python-100%25-brightgreen) 

